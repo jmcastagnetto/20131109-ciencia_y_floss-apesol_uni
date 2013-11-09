@@ -55,7 +55,7 @@ contrastar nuestros pensamientos con el universo y ver si coinciden.
 
 ## Hipótesis científica
 
-- Provee una explicación de los fenómenos observados, la cual tiene que se
+- Provee una explicación de los fenómenos observados, la cual tiene que ser
   comprobada fehacientemente.
 - Idealmente tiene que:
     - Poder explicar fenómenos futuros (poder predictivo)
@@ -69,7 +69,7 @@ contrastar nuestros pensamientos con el universo y ver si coinciden.
 
 Tres amigos estaban viajando en un tren: un abogado, un físico y un matemático.
 
-> - El abogado vió por la ventana y dijo: "Las ovejas de esta región son negras"
+> - El abogado vio por la ventana y dijo: "Las ovejas de esta región son negras"
 > - El físico dijo: "No, eso es incorrecto: _algunas_ ovejas de esta región son negras"
 > - El matemático, algo molesto dijo: "Hay al menos un campo en esta región, conteniendo al menos una oveja, la cual tiene al menos un lado de color negro"
 
@@ -98,7 +98,7 @@ Tres amigos estaban viajando en un tren: un abogado, un físico y un matemático
 ---
 
 <q>Toda la Ciencia es incierta y sujeta a revisión. Lo glorioso de la ciencia
-es el (*poder*) imaginar mas de lo que podemos probar.
+es el (*poder*) imaginar más de lo que podemos probar.
 <div class="author">Freeman Dyson</div>
 </q>
 
@@ -137,7 +137,7 @@ es el (*poder*) imaginar mas de lo que podemos probar.
 
 ---
 
-<q>La Ciencia es una forma de pensar mucho mas que un conjunto de
+<q>La Ciencia es una forma de pensar y no solamente un conjunto de
 conocimientos acumulados.
 <div class="author">Carl Sagan</div>
 </q>
@@ -274,9 +274,9 @@ Murray-Rust](http://blogs.ch.cam.ac.uk/pmr/2011/10/23/open-research-reports-what
 1. Todos los datos son abiertos y las ideas se comparten
 2. Cualquier persona puede participar en cualquier nivel del proyecto
 3. No habrán patentes
-4. Las sugerencias son las mejor forma de criticar
+4. Las sugerencias son las mejores formas de criticar
 5. La discusión pública es mucho más valiosa que las comunicaciones privadas
-6. El proyecto es mas grande que, y no es de propiedad de, un laboratorio en
+6. El proyecto es más grande que, y no es de propiedad de, un laboratorio en
    particular. El objetivo es encontrar una cura, por cualquier medio, tan
    pronto como sea posible.
 
