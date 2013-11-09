@@ -15,7 +15,7 @@ Para compilar, ejecutar en R:
 
 ~~~ R
 require(slidify)
-slidify(index.Rmd)
+slidify("index.Rmd")
 ~~~
 
 -- Jesús M. Castagnetto
