@@ -1,0 +1,118 @@
+diff --git a/libraries/frameworks/io2012/css/slidify.css b/libraries/frameworks/io2012/css/slidify.css
+index bb76fd1..e62cc5f 100644
+--- a/libraries/frameworks/io2012/css/slidify.css
++++ b/libraries/frameworks/io2012/css/slidify.css
+@@ -1,5 +1,4 @@
+-@import url(http://fonts.googleapis.com/css?family=Oswald);
+-@import url(http://fonts.googleapis.com/css?family=Signika+Negative);
++@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+ 
+ .license {
+   font-size: 14px;
+@@ -12,32 +11,34 @@
+ 
+ /* Styles for Title Slide */
+ .title-slide hgroup > h1{
+-  font-family: 'Oswald', sans-serif;
++  font-family: 'Open Sans', sans-serif;
+ }
+ 
+ .title-slide hgroup > h2{
+-  font-family: 'Signika Negative', 'Calibri', sans-serif;
++  font-family: 'Open Sans', 'Calibri', sans-serif;
+ }
+ 
+ /* Fonts and Spacing */
+ article p, article li, article li.build{
+-  font-family: 'Helvetica', 'Crimson Text', 'Garamond',  'Palatino', sans-serif;
++  font-family: 'Open Sans', 'Helvetica', 'Garamond',  'Palatino', sans-serif;
+   text-align: justify;
+-  font-size:22px;
++  font-size: 32px;
+   line-height: 1.5em;
+ }
+ 
+ slide:not(.segue) h2{
+-  font-family: 'Signika Negative', 'Calibri', Arial, sans-serif;
++  font-family: 'Open Sans', 'Calibri', Arial, sans-serif;
+   font-size: 52px;
+   font-style: normal;
+   font-weight: bold;
+   text-transform: normal;
+-  letter-spacing: -2px;
++  margin-bottom: 0.5em;
++  /* letter-spacing: -2px;
+   line-height: 1.2em;
+ /*  color: #193441;*/
+-/*  color: #02574D;*/
+-  color: #CC2904;
++ /*  color: #02574D; */
++  /* color: #CC2904; */
++  color: #000000;
+ }
+ 
+ /* Reduce Space between Title and Body */
+@@ -65,20 +66,21 @@ iframe {
+ 
+ /* Quotes and Shout (for io2012, custom) */
+ article q {
+-  font-family: 'Crimson Text', sans-serif;
++  font-family: 'Open Sans', sans-serif;
+ }
+ 
+ q {
+   display: block;
+   font-size: 44px;
+-  line-height: 56px;
+-  margin-left: 50px;
+-  margin-top: 100px;
+-  margin-right: 150px;
++  line-height: 60px;
++  margin-left: 40px;
++  margin-top: 40px;
++  margin-right: 40px;
+ }
+ 
+ q::before {
+-  content: '“';
++  font-family: 'Arial';
++  content: '\00201c';
+   position: absolute;
+   display: inline-block;
+   margin-left: -2.1em;
+@@ -89,7 +91,8 @@ q::before {
+ }
+ 
+ q::after {
+-  content: '”';
++  font-family: 'Arial';
++  content: '\00201d';
+   position: absolute;
+   margin-left: .1em;
+   font-size: 90px;
+@@ -136,8 +139,8 @@ table {
+   border: none;
+   width: 100%;
+   border-collapse: collapse;
+-  font-size: 24px;
+-  line-height: 32px;
++  font-size: 28px;
++  line-height: 34px;
+   font-family: 'Trebuchet MS';
+   font-weight: bolder;
+   color: rgb(102, 102, 102);
+@@ -187,4 +190,12 @@ ol ul {
+ 
+ ol {
+   list-style-type: decimal;
+-}
+\ No newline at end of file
++}
++
++strong {
++	font-weight: bold;
++}
++
++em {
++	font-style: italic;
++}

@@ -1,0 +1,84 @@
+diff --git a/libraries/frameworks/io2012/css/default.css b/libraries/frameworks/io2012/css/default.css
+index 93c6099..54af52b 100644
+--- a/libraries/frameworks/io2012/css/default.css
++++ b/libraries/frameworks/io2012/css/default.css
+@@ -236,7 +236,8 @@ slides > slide {
+   display: none;
+   font-family: 'Open Sans', Arial, sans-serif;
+   font-size: 26px;
+-  color: #797979;
++  /* color: #797979; */
++  color: #444;
+   width: 900px;
+   height: 700px;
+   margin-left: -450px;
+@@ -450,14 +451,14 @@ h1, h2, h3 {
+ h2 {
+   font-size: 45px;
+   line-height: 45px;
+-  letter-spacing: -2px;
++  /* letter-spacing: -2px; */
+   color: #515151;
+ }
+ 
+ /* line 323, ../scss/default.scss */
+ h3 {
+   font-size: 30px;
+-  letter-spacing: -1px;
++  /* letter-spacing: -1px; */
+   line-height: 2;
+   font-weight: inherit;
+   color: #797979;
+@@ -485,7 +486,7 @@ ul li ul li:before {
+ }
+ /* line 350, ../scss/default.scss */
+ ul > li:before {
+-  content: '·';
++  content: '\002022';
+   margin-left: -1em;
+   position: absolute;
+   font-weight: 600;
+@@ -515,7 +516,7 @@ pre {
+   font-size: 20px;
+   line-height: 28px;
+   padding: 10px 0 10px 60px;
+-  letter-spacing: -1px;
++  /* letter-spacing: -1px; */
+   margin-bottom: 20px;
+   width: 106%;
+   left: -60px;
+@@ -1212,12 +1213,12 @@ article.smaller q:before, article.smaller q:after {
+ }
+ /* line 848, ../scss/default.scss */
+ .segue h2 {
+-  color: #e6e6e6;
++  color: #000000;
+   font-size: 60px;
+ }
+ /* line 852, ../scss/default.scss */
+ .segue h3 {
+-  color: #e6e6e6;
++  color: #e7e6e6;
+   line-height: 2.8;
+ }
+ /* line 856, ../scss/default.scss */
+@@ -1228,8 +1229,8 @@ article.smaller q:before, article.smaller q:after {
+ 
+ /* line 862, ../scss/default.scss */
+ .thank-you-slide {
+-  background: #4387fd !important;
+-  color: white;
++  /* background: #4387fd !important;
++  color: white; */
+ }
+ /* line 866, ../scss/default.scss */
+ .thank-you-slide h2 {
+@@ -1322,7 +1323,7 @@ aside.gdbar img {
+ .title-slide hgroup h1 {
+   font-size: 65px;
+   line-height: 1.4;
+-  letter-spacing: -3px;
++  /* letter-spacing: -3px; */
+   color: #515151;
+ }
+ /* line 934, ../scss/default.scss */
