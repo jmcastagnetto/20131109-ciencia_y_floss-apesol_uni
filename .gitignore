@@ -3,4 +3,8 @@
 .RData
 TAGS
 tags
+libraries
+libraries/*
+index.html
+index.md
 .*.sw?
