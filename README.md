@@ -6,6 +6,8 @@ El archivo principal es index.Rmd (R-Markdown), el cual es compilado a Markdown 
 
 He hecho modificaciones simples a los estilos (ver los archivos *-patch) que vienen con la versión estable sde Slidify
 
+La presentación se puede ver en: http://jmcastagnetto.github.io/20131109-ciencia_y_floss-apesol_uni/
+
 Requisitos:
 
 - [R](http://www.r-project.org/)
