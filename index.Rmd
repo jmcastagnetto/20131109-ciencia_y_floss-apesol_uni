@@ -3,12 +3,11 @@ title: Ciencia Abierta
 subtitle: La intersección entre Ciencia y Código Libre
 author: Jesús M. Castagnetto, Ph.D.
 job: Universidad Peruana Cayetano Heredia
-#biglogo: upch-logo-2013.png
 logo: upch-logo.png
 license: by-nc-sa
 framework: io2012
 widgets : [mathjax]
-mode : selfcontained # {standalone, selfcontained, draft}
+mode : selfcontained
 
 ---
 
@@ -60,7 +59,7 @@ contrastar nuestros pensamientos con el universo y ver si coinciden.
   comprobada fehacientemente.
 - Idealmente tiene que:
     - Poder explicar fenómenos futuros (poder predictivo)
-	- Evitar la complejidad excesiva y sin razón ("_Navaja de Occam_")
+	- Evitar la complejidad excesiva y sin razón ("*Navaja de Occam*")
 	- Ser cuantificable y comprobable
 	- Tener un alcance definido
 
@@ -138,7 +137,7 @@ es el (*poder*) imaginar mas de lo que podemos probar.
 
 ---
 
-<q>La Ciencia es una forma de pensar mucho mas que ser un conjunto de
+<q>La Ciencia es una forma de pensar mucho mas que un conjunto de
 conocimientos acumulados.
 <div class="author">Carl Sagan</div>
 </q>
@@ -196,14 +195,26 @@ reconocidos y citados\(\ldots\)
 
 ## Publicando en Acceso Abierto
 
-- Políticas de publicación abierta por parte de entidades financiadoras,
+- Políticas de publicación abierta de entidades financiadoras,
   universidades, etc. (ej: http://publicaccess.nih.gov/)
-- Muchas compañías editoras tienen ahora posibilidad de publicar en Acceso
+- Muchas compañías editoras dan ahora la posibilidad de publicar en Acceso
   Abierto
 - Recursos:
     - Reg. of Open Access Rep. (ROAR): http://roar.eprints.org/
 	- ROARMAP (Mandates): http://roarmap.eprints.org/
 	- DOAJ: http://www.doaj.org/
+
+---
+
+## PLOS (http://www.plos.org/)
+
+![PLOS](assets/img/plos.png "Public Library Of Science")
+
+---
+
+## BMJ (http://www.bmj.com/)
+
+![BMJ](assets/img/bmj.png "Biomedical Journal")
 
 --- 
 
@@ -232,8 +243,111 @@ Murray-Rust](http://blogs.ch.cam.ac.uk/pmr/2011/10/23/open-research-reports-what
     - Mantener los registros primarios
 	  de la investigación en forma pública (**Open Notebook Science**)
 
+---
+
+## The Synaptic Leap
+
+- Un espacio para las comunidades que activamente hacen investigación biomédica
+- Comunidades
+    - Malaria
+	- Esquistosomiasis
+	- Tuberculosis
+	- Toxoplasmosis
+- Basado en Drupal
+- URL: http://www.thesynapticleap.org
+
+---
+
+## Open Wetware
+
+- "OpenWetWare is an effort to promote the sharing of information,
+  know-how, and wisdom among researchers and groups who are working in biology
+  & biological engineering."
+- "Cuadernos" de laboratorio electrónicos, abiertos a todo el mundo
+- Basado en Mediawiki
+- URL: http://openwetware.org
+
+---
+
+## Las "[reglas](http://openwetware.org/wiki/Open_Source_Drug_Discovery)" de la Ciencia Abierta
+
+1. Todos los datos son abiertos y las ideas se comparten
+2. Cualquier persona puede participar en cualquier nivel del proyecto
+3. No habrán patentes
+4. Las sugerencias son las mejor forma de criticar
+5. La discusión pública es mucho más valiosa que las comunicaciones privadas
+6. El proyecto es mas grande que, y no es de propiedad de, un laboratorio en
+   particular. El objetivo es encontrar una cura, por cualquier medio, tan
+   pronto como sea posible.
+
+---
+
+## Open Source Malaria (OSM)
+
+- Comunidad internacional abierta, con el objetivo de encontrar una cura para
+  la malaria
+- No importa tu nivel de conocimiento o experiencia, lo que importa es que
+  quieras ayudar
+- Ejemplo de Open Source Drug Discovery
+- URL: http://opensourcemalaria.org/
+
+---
+
+## Labtrove
+
+- Aplicativo web que permite a los investigadores el compartir directamente,
+  sus planes experimentales, pensamientos, observaciones, y resultados con una
+  amplia comunidad en línea, en una forma semáticamente rica y extensible.
+- Hecho por la Universidad de Southampton
+- URL: http://www.labtrove.org/
+- Código: http://sourceforge.net/projects/labtrove/
+
+---
+
+## [OSM Blog](http://malaria.ourexperiment.org/the_osm_blog)
+
+![OSM Blog](assets/img/osm-blog.png "OSM Blog")
+
+---
+
+## Open Science Framework
+
+- Un sistema para archivar materiales de investigación, con un componente
+  colaborativo y de control de versiones
+- Incluye el manejo de los documentos, datos, etc. y del flujo de trabajo del
+  proyecto de investigación científica
+- URL: https://openscienceframework.org
+- En github: https://github.com/OpenScienceFramework
+
+---
+
+## [Center for Open Science](https://github.com/centerforopenscience)
+
+![Center for Open Science @ github](assets/img/cfos-github.png "Center for Open Science @ github")
 
 
+---
+
+## figshare (http://figshare.com)
+
+![figshare](assets/img/figshare.png "figshare: a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner")
+
+---
+
+## DRYAD (http://datadryad.org/)
+
+![DRYAD](assets/img/dryad.png "DRYAD: A Digital Repository for Research Data")
+
+---
+
+## Otros recursos y referencias
+
+- [We need a github of science](http://marciovm.com/i-want-a-github-of-science/)
+- [GitHub for Academics...](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/)
+- [Open Science Project](http://www.openscience.org/blog/)
+- [ROpenSci](http://ropensci.org/)
+- [Open Knowledge Foundation](http://okfn.org/)
+- [Open Source Drug Discovery](http://www.osdd.net/) (India)
 
 --- .segue
 
@@ -241,11 +355,78 @@ Murray-Rust](http://blogs.ch.cam.ac.uk/pmr/2011/10/23/open-research-reports-what
 
 ---
 
-- http://biostat.mc.vanderbilt.edu/wiki/Main/StatReport
-- http://cran.r-project.org/web/views/ReproducibleResearch.html
-- http://www.opensciencedirectory.net/
-- https://openscienceframework.org/
-- http://www.openscience.org/blog/
+## Objetivo
+
+- El poder reproducir en su totalidad investigación publicada, para poder entenderla mejor y verificarla.
+- Implica el tener acceso a:
+    - Los datos experimentales (crudos y/o procesados)
+	- El flujo de trabajo de proceso de los datos
+	- Los algoritmos y transformaciones empleadas
+	- El software empleado para el análisis
+
+---
+
+## El "espectro" de reproducibilidad
+
+![Reproducibility Spectrum](assets/img/peng-reproducibility-spectrum.jpg "Reproducibility Spectrum")
+
+(Roger Peng)
+
+---
+
+## Como se está implementando
+
+- Publicación de datos, código e instrucciones (ej. en github)
+- Software empleado:
+    - **R**: para el análisis de datos
+	- **\(\LaTeX\)** y/o **Markdown**: para la documentación
+	- **knitr**: para integrar documentación y código (\(\LaTeX\) + R)
+	- **slidify**: Markdown + R a HTML
+	- **RStudio**: Markdown o \(\LaTeX\) + R
+	- **git**: control de versiones
+
+---
+
+## Markdown + Math (\(\LaTeX\))
+
+~~~ latex
+$$
+\begin{align}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{align}
+$$
+~~~
+
+$$
+\begin{align}
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
+\dot{z} & = -\beta z + xy
+\end{align}
+$$
+
+---
+
+## Markdown + R
+
+
+``` {r scplot, dev = 'png', fig.width = 8, fig.height = 5, error = T}
+library(ggplot2)
+library(ggthemes)
+qplot(wt, mpg, data = mtcars) + theme_solarized()
+```
+
+---
+
+## Recursos y referencias
+
+- [Reproducible research and Biostatistics](http://biostatistics.oxfordjournals.org/content/10/3/405.full) (doi: 10.1093/biostatistics/kxp014)
+- [Reproducible Research in Computational Science](http://www.sciencemag.org/content/334/6060/1226.full) (doi: 10.1126/science.1213847)
+- Reproducible Research (CRAN): http://cran.r-project.org/web/views/ReproducibleResearch.html 
+- [Treading a New Path for Reproducible Research: Part 1](http://simplystatistics.org/2013/08/21/treading-a-new-path-for-reproducible-research-part-10/)
+- [Open Science Paper @ github](https://github.com/cpfaff/Open-Science-Paper)
 
 ---
 
@@ -259,4 +440,6 @@ thing we have.
 
 ## ¡Muchas Gracias!
 
-Jesús M. Castagnetto (jesus@upch.pe)
+- Jesús M. Castagnetto (jesus@upch.pe)
+- Esta charla: http://jmcastagnetto.github.io/20131109-ciencia_y_floss-apesol_uni/
+- Repositorio: https://github.com/jmcastagnetto/20131109-ciencia_y_floss-apesol_uni/
